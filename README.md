@@ -1,4 +1,4 @@
-# CodeX Editor Integratsiyasi — Мини документация
+# CodeX Editor Integratsiyasi 
 
 ## Umumiy ma’lumot
 
